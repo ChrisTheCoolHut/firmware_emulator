@@ -1,0 +1,8 @@
+riposte
+python-magic
+IPython
+cle
+git+https://github.com/ahupp/python-magic
+git+https://github.com/sviehb/jefferson
+git+https://github.com/ReFirmLabs/binwalk.git
+
